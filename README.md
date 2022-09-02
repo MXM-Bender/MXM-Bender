@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXM-Bender)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXM-Bender&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
 
 <!--
