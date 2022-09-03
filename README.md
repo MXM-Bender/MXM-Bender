@@ -10,7 +10,7 @@
 
 - 💻 &nbsp; Python | C | Java | C++
 - 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | React | Vue
-- 🛢 &nbsp; MySQL | Hadoop
+- 🛢  &nbsp; MySQL
 - 🔧 &nbsp; IDEA | PyCharm | Visual Studio code | Eclipse | Git
 
 <br>
