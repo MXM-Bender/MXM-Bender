@@ -41,8 +41,9 @@
 
 <br/>
 ## 使用语言的比例
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXM-Bender)](https://github.com/Christmas/github-readme-stats)
-
+</div>
 <!--
 **MXM-Bender/MXM-Bender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
