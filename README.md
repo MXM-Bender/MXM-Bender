@@ -40,25 +40,6 @@
 </div>
 
 <br/>
-
-## Github Stats
-
-<table><tr><td valign="top" width="50%">
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br />
-
----
-
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
