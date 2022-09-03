@@ -1,49 +1,31 @@
-### Yukai Ma's GitHub Introduction
+<h2> Hey there! I'm Yukai ma. </h2>
 
-## Hey 👋, I'm Yukai Ma!
+<h3> 👨🏻‍💻 个人简介 </h3>
 
-<a href="https://github.com/MXM-Bender" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+- 🏫 &nbsp; 于2019年就读于石家庄铁道大学软件工程系
+- 🎨 &nbsp; 在校期间掌握了JavaSE、JavaEE开发，Spring、SpringBoot后端框架的使用，了解Hadoop、Spark等大数据相关技术，涉及过React、Vue前端框架的概念。
+- 🔭 &nbsp; 目前正在进行对大数据的深入学习
 
+<h3>🛠 语言和工具</h3>
 
-### 个人简介
-马玉凯<br/>
-于 2019 年就读于[石家庄铁道大学](https://www.stdu.edu.cn/)软件工程系。
+- 💻 &nbsp; Python | C | Java | C++
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | React | Vue
+- 🛢 &nbsp; MySQL | Hadoop
+- 🔧 &nbsp; IDEA | PyCharm | Visual Studio code | Eclipse | Git
 
-<br/>
+<br>
 
-## 学习过的语言和工具
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="25" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-<a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="25" /></a>  
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
 <br/>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXM-Bender&layout=compact)](https://github.com/MXM-Bender/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
+</p>
+
+⭐️ 我的Github [Yukai Ma](https://github.com/MXM-Bender)
+
 <!--
 **MXM-Bender/MXM-Bender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
