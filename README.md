@@ -13,17 +13,7 @@
 
 <br/>
 
-## Rapidfire
-
-<table><tr><td valign="top" width="50%">
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>
-
-<br/>
-
-## Languages and Tools
+## 学习过的语言和工具
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -55,19 +45,13 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
 
 <br/>
 
 <br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
 
 <br/>
 
