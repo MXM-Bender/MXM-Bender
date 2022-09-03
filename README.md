@@ -40,7 +40,7 @@
 </div>
 
 <br/>
-## 使用语言的比例
+
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXM-Bender&layout=compact)](https://github.com/MXM-Bender/github-readme-stats)
 </div>
