@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 个人简介 </h3>
 
 - 🏫 &nbsp; 于2019年就读于石家庄铁道大学软件工程系
-- 🎨 &nbsp; 掌握了JavaSE、JavaEE开发，Spring、SpringBoot后端框架的使用，了解Hadoop、Spark等大数据相关技术，涉及过React、Vue前端框架的概念。
+- 🎨 &nbsp; 掌握了JavaSE、JavaEE开发，Spring、Spring Boot后端框架的使用，了解Hadoop、Spark等大数据相关技术，涉及过React、Vue前端框架的概念。
 - 🔭 &nbsp; 目前正在进行对大数据的深入学习
 
 <h3>🛠 语言和工具</h3>
